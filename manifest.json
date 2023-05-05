@@ -1,0 +1,31 @@
+{
+  "background_color": "#ffffff",
+  "description": "Bisnis Pulsa Masa Kini\n\nSaatnya memulai bisnis pulsa Anda dengan mudah, cepat, dan modal terjangkau. Cukup dengan modal Rp. 100rb-an, sudah bisa memulai bisnis dengan produk yang lengkap dan up-to-date.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "nisrokmohyono.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "nisrokmohyono.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "business",
+    "education",
+    "finance",
+    "personalization",
+    "productivity"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRp2HZEMUDxXVxXgco_t7B-ZXTjfth3pvfebyDYvKCFEHL9_r6zK_LNHz3Z1VSppPPJms2Bt1TllW37gRwfhCdesFUnibhjp3e1UG705mMYlu0bwKruQE95GHvuMGGBZJDFkWBa50G3f8jBLhH4hp3ZBT4ZQgBPcBVkAI14saOXQboGaJt8qeG58H4Mw/s1200/Gambar40.png"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "id",
+  "display_override": [
+    "fullscreen"
+  ],
+  "prefer_related_applications": true
+}

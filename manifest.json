@@ -19,8 +19,9 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRp2HZEMUDxXVxXgco_t7B-ZXTjfth3pvfebyDYvKCFEHL9_r6zK_LNHz3Z1VSppPPJms2Bt1TllW37gRwfhCdesFUnibhjp3e1UG705mMYlu0bwKruQE95GHvuMGGBZJDFkWBa50G3f8jBLhH4hp3ZBT4ZQgBPcBVkAI14saOXQboGaJt8qeG58H4Mw/s1200/Gambar40.png"
-    }
+      "src": "/android-launchericon-512-512.png",
+
+      "sizes": "512x512"}
   ],
   "shortcuts": [],
   "lang": "id",
